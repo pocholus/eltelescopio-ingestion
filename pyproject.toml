@@ -1,0 +1,5 @@
+[project]
+name = "eltelescopio-ingestion"
+description = ""
+readme = 'README.md'
+requires-python = '>=3.6'
