@@ -1,1 +1,2 @@
-init
+# ARCHITECTURE
+![Architecture](ARCHITECTURE.drawio.png)
