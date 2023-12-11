@@ -1,8 +1,5 @@
 FROM python:slim-bullseye
 
-#ENV VIRTUAL_ENV /env
-#ENV PATH /env/bin:$PATH
-
 WORKDIR /app
 COPY . /app
 
